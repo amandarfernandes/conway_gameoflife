@@ -1,2 +1,2 @@
-# conway_gameoflife
-a React project on Conway's Game of Life - a cell automaton game
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
